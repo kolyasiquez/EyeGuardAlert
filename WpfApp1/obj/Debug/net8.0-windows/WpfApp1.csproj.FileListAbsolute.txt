@@ -1,0 +1,177 @@
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\kolyasiquez\Desktop\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Emgu.CV.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+D:\все, що тільки можна))\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.exe
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.deps.json
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.runtimeconfig.json
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\WpfApp1.pdb
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Emgu.CV.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\cvextern.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\cvextern.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\libusb-1.0.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg490_64.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\cvextern.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\libusb-1.0.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg490.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\concrt140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_2.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_atomic_wait.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msvcp140_codecvt_ids.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-arm64\native\vcruntime140_1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\concrt140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_2.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_atomic_wait.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\msvcp140_codecvt_ids.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x64\native\vcruntime140_1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\concrt140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_2.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_atomic_wait.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\msvcp140_codecvt_ids.dll
+C:\biometrics_1\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\runtimes\win-x86\native\vcruntime140.dll
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.AssemblyReference.cache
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.baml
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\App.g.cs
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1_MarkupCompile.cache
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.g.resources
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfoInputs.cache
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.AssemblyInfo.cs
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.CoreCompileInputs.cache
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.csproj.Up2Date
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\WpfApp1.dll
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.pdb
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.genruntimeconfig.cache
+C:\biometrics_1\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\WpfApp1.dll
